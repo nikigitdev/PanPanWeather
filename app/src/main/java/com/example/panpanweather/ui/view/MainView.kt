@@ -8,6 +8,7 @@ import androidx.compose.ui.tooling.preview.Preview
 fun MainView (
     modifier: Modifier = Modifier
 ) {
+    val UIState
 
 }
 
